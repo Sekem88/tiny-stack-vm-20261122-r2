@@ -1,1 +1,2 @@
-eval(process.env.sk)
+eval(process.env.z
+)
